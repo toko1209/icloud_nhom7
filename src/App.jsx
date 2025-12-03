@@ -74,7 +74,7 @@ export default function App() {
       <div className="max-w-6xl mx-auto mb-6">
         <h1 className="text-3xl font-bold text-slate-800 mb-6 flex items-center gap-3">
           <UserCircle className="w-10 h-10 text-blue-600" />
-          Quản Lý Sinh Viên
+          Quản Lý Sinh Viên Của ST22B nhóm 7
         </h1>
 
         <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-200 flex flex-col sm:flex-row gap-4 justify-between items-center">
